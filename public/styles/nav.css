@@ -1,0 +1,19 @@
+
+#nav-bar {
+  padding:0px 2em;
+  width: 100%;
+  height: 80px;
+  color: #e8fdff;
+  background-color: #00a087;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+#nav-bar .header{
+	padding: 0;
+	border: 1px solid red;
+	font-size: -webkit-xxx-large;
+}
+
+#nav-bar .logo{
+
+}

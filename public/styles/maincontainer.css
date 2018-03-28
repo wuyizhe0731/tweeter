@@ -1,0 +1,13 @@
+#container{
+	border: 1px solid red;
+    text-decoration: underline;
+ 
+ 	width: 450px;
+
+};
+
+#new-tweet .h2{
+  border: 1px solid red;
+  text-decoration: underline;
+}
+
